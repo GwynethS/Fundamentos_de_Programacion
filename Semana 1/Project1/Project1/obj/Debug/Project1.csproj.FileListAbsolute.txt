@@ -1,0 +1,10 @@
+E:\Documents\Programs\Semana 1\Project1\Project1\bin\Debug\Project1.exe.config
+E:\Documents\Programs\Semana 1\Project1\Project1\bin\Debug\Project1.exe
+E:\Documents\Programs\Semana 1\Project1\Project1\bin\Debug\Project1.pdb
+E:\Documents\Programs\Semana 1\Project1\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+E:\Documents\Programs\Semana 1\Project1\Project1\obj\Debug\Project1.Form1.resources
+E:\Documents\Programs\Semana 1\Project1\Project1\obj\Debug\Project1.Properties.Resources.resources
+E:\Documents\Programs\Semana 1\Project1\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+E:\Documents\Programs\Semana 1\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+E:\Documents\Programs\Semana 1\Project1\Project1\obj\Debug\Project1.exe
+E:\Documents\Programs\Semana 1\Project1\Project1\obj\Debug\Project1.pdb
