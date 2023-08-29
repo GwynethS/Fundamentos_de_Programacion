@@ -1,0 +1,20 @@
+E:\Documents\Programs\Semana 2\Arrays\Arrays\bin\Debug\Arrays.exe.config
+E:\Documents\Programs\Semana 2\Arrays\Arrays\bin\Debug\Arrays.exe
+E:\Documents\Programs\Semana 2\Arrays\Arrays\bin\Debug\Arrays.pdb
+E:\Documents\Programs\Semana 2\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+E:\Documents\Programs\Semana 2\Arrays\Arrays\obj\Debug\Arrays.Form1.resources
+E:\Documents\Programs\Semana 2\Arrays\Arrays\obj\Debug\Arrays.Properties.Resources.resources
+E:\Documents\Programs\Semana 2\Arrays\Arrays\obj\Debug\Arrays.csproj.GenerateResource.cache
+E:\Documents\Programs\Semana 2\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+E:\Documents\Programs\Semana 2\Arrays\Arrays\obj\Debug\Arrays.exe
+E:\Documents\Programs\Semana 2\Arrays\Arrays\obj\Debug\Arrays.pdb
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 2\Arrays\Arrays\bin\Debug\Arrays.exe.config
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 2\Arrays\Arrays\bin\Debug\Arrays.exe
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 2\Arrays\Arrays\bin\Debug\Arrays.pdb
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 2\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 2\Arrays\Arrays\obj\Debug\Arrays.Form1.resources
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 2\Arrays\Arrays\obj\Debug\Arrays.Properties.Resources.resources
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 2\Arrays\Arrays\obj\Debug\Arrays.csproj.GenerateResource.cache
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 2\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 2\Arrays\Arrays\obj\Debug\Arrays.exe
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 2\Arrays\Arrays\obj\Debug\Arrays.pdb
