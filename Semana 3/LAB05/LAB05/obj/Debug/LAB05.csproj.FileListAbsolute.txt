@@ -1,0 +1,10 @@
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 3\LAB05\LAB05\bin\Debug\LAB05.exe.config
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 3\LAB05\LAB05\bin\Debug\LAB05.exe
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 3\LAB05\LAB05\bin\Debug\LAB05.pdb
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 3\LAB05\LAB05\obj\Debug\LAB05.csproj.AssemblyReference.cache
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 3\LAB05\LAB05\obj\Debug\LAB05.Form1.resources
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 3\LAB05\LAB05\obj\Debug\LAB05.Properties.Resources.resources
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 3\LAB05\LAB05\obj\Debug\LAB05.csproj.GenerateResource.cache
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 3\LAB05\LAB05\obj\Debug\LAB05.csproj.CoreCompileInputs.cache
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 3\LAB05\LAB05\obj\Debug\LAB05.exe
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 3\LAB05\LAB05\obj\Debug\LAB05.pdb
