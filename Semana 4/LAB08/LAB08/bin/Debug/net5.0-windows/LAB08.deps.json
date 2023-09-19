@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LAB08/1.0.0": {
+        "dependencies": {
+          "morelinq": "3.4.2"
+        },
+        "runtime": {
+          "LAB08.dll": {}
+        }
+      },
+      "morelinq/3.4.2": {
+        "runtime": {
+          "lib/netstandard2.1/MoreLinq.dll": {
+            "assemblyVersion": "3.4.2.0",
+            "fileVersion": "3.4.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LAB08/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "morelinq/3.4.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nKdpt7Ai+xQO8PZ0YFTn13INGJcKO0Nx65kO/ut0zaDirRo6d7atedmW2l68YB3x7U4pOqTLdMfYsBys8KxA1Q==",
+      "path": "morelinq/3.4.2",
+      "hashPath": "morelinq.3.4.2.nupkg.sha512"
+    }
+  }
+}
