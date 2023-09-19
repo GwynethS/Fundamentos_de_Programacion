@@ -1,0 +1,10 @@
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 3\TA3\TA3\bin\Debug\TA3.exe.config
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 3\TA3\TA3\bin\Debug\TA3.exe
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 3\TA3\TA3\bin\Debug\TA3.pdb
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 3\TA3\TA3\obj\Debug\TA3.csproj.AssemblyReference.cache
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 3\TA3\TA3\obj\Debug\TA3.Form1.resources
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 3\TA3\TA3\obj\Debug\TA3.Properties.Resources.resources
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 3\TA3\TA3\obj\Debug\TA3.csproj.GenerateResource.cache
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 3\TA3\TA3\obj\Debug\TA3.csproj.CoreCompileInputs.cache
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 3\TA3\TA3\obj\Debug\TA3.exe
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 3\TA3\TA3\obj\Debug\TA3.pdb
