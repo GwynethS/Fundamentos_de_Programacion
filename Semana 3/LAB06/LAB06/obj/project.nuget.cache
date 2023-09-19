@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "2hRQpGJJ0McXAt6/WM9ZVnGJxSk6jHzjY0mUijTOpCdfAVSx2uNQsH1HDEG6So57rnRI/mcpjQ258pzCc7ecNg==",
+  "success": true,
+  "projectFilePath": "D:\\UPC\\2023 - 2\\Fundamentos de Programación\\Semana 3\\LAB06\\LAB06\\LAB06.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GWYNETH\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\GWYNETH\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\GWYNETH\\.nuget\\packages\\morelinq\\3.4.2\\morelinq.3.4.2.nupkg.sha512",
+    "C:\\Users\\GWYNETH\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\GWYNETH\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
+    "C:\\Users\\GWYNETH\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
+    "C:\\Users\\GWYNETH\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\GWYNETH\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
+    "C:\\Users\\GWYNETH\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\GWYNETH\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\GWYNETH\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "C:\\Users\\GWYNETH\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\GWYNETH\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\GWYNETH\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\GWYNETH\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
