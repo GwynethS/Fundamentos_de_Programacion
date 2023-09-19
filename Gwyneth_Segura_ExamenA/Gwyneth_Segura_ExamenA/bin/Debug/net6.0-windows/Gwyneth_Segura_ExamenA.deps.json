@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Gwyneth_Segura_ExamenA/1.0.0": {
+        "runtime": {
+          "Gwyneth_Segura_ExamenA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gwyneth_Segura_ExamenA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

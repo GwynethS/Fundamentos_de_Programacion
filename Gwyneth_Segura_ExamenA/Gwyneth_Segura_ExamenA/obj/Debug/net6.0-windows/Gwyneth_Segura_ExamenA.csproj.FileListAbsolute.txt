@@ -1,0 +1,16 @@
+E:\Documents\Gwyneth_Segura_ExamenA\Gwyneth_Segura_ExamenA\bin\Debug\net6.0-windows\Gwyneth_Segura_ExamenA.exe
+E:\Documents\Gwyneth_Segura_ExamenA\Gwyneth_Segura_ExamenA\bin\Debug\net6.0-windows\Gwyneth_Segura_ExamenA.deps.json
+E:\Documents\Gwyneth_Segura_ExamenA\Gwyneth_Segura_ExamenA\bin\Debug\net6.0-windows\Gwyneth_Segura_ExamenA.runtimeconfig.json
+E:\Documents\Gwyneth_Segura_ExamenA\Gwyneth_Segura_ExamenA\bin\Debug\net6.0-windows\Gwyneth_Segura_ExamenA.dll
+E:\Documents\Gwyneth_Segura_ExamenA\Gwyneth_Segura_ExamenA\bin\Debug\net6.0-windows\Gwyneth_Segura_ExamenA.pdb
+E:\Documents\Gwyneth_Segura_ExamenA\Gwyneth_Segura_ExamenA\obj\Debug\net6.0-windows\Gwyneth_Segura_ExamenA.Form1.resources
+E:\Documents\Gwyneth_Segura_ExamenA\Gwyneth_Segura_ExamenA\obj\Debug\net6.0-windows\Gwyneth_Segura_ExamenA.csproj.GenerateResource.cache
+E:\Documents\Gwyneth_Segura_ExamenA\Gwyneth_Segura_ExamenA\obj\Debug\net6.0-windows\Gwyneth_Segura_ExamenA.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Gwyneth_Segura_ExamenA\Gwyneth_Segura_ExamenA\obj\Debug\net6.0-windows\Gwyneth_Segura_ExamenA.AssemblyInfoInputs.cache
+E:\Documents\Gwyneth_Segura_ExamenA\Gwyneth_Segura_ExamenA\obj\Debug\net6.0-windows\Gwyneth_Segura_ExamenA.AssemblyInfo.cs
+E:\Documents\Gwyneth_Segura_ExamenA\Gwyneth_Segura_ExamenA\obj\Debug\net6.0-windows\Gwyneth_Segura_ExamenA.csproj.CoreCompileInputs.cache
+E:\Documents\Gwyneth_Segura_ExamenA\Gwyneth_Segura_ExamenA\obj\Debug\net6.0-windows\Gwyneth_Segura_ExamenA.dll
+E:\Documents\Gwyneth_Segura_ExamenA\Gwyneth_Segura_ExamenA\obj\Debug\net6.0-windows\refint\Gwyneth_Segura_ExamenA.dll
+E:\Documents\Gwyneth_Segura_ExamenA\Gwyneth_Segura_ExamenA\obj\Debug\net6.0-windows\Gwyneth_Segura_ExamenA.pdb
+E:\Documents\Gwyneth_Segura_ExamenA\Gwyneth_Segura_ExamenA\obj\Debug\net6.0-windows\Gwyneth_Segura_ExamenA.genruntimeconfig.cache
+E:\Documents\Gwyneth_Segura_ExamenA\Gwyneth_Segura_ExamenA\obj\Debug\net6.0-windows\ref\Gwyneth_Segura_ExamenA.dll
