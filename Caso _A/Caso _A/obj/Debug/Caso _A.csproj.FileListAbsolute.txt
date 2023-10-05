@@ -1,0 +1,13 @@
+D:\UPC\2023 - 2\Fundamentos de Programación\Examen parcial\Caso _A\Caso _A\bin\Debug\Caso _A.exe.config
+D:\UPC\2023 - 2\Fundamentos de Programación\Examen parcial\Caso _A\Caso _A\bin\Debug\Caso _A.exe
+D:\UPC\2023 - 2\Fundamentos de Programación\Examen parcial\Caso _A\Caso _A\bin\Debug\Caso _A.pdb
+D:\UPC\2023 - 2\Fundamentos de Programación\Examen parcial\Caso _A\Caso _A\obj\Debug\Caso _A.csproj.AssemblyReference.cache
+D:\UPC\2023 - 2\Fundamentos de Programación\Examen parcial\Caso _A\Caso _A\obj\Debug\Caso__A.FormCliente.resources
+D:\UPC\2023 - 2\Fundamentos de Programación\Examen parcial\Caso _A\Caso _A\obj\Debug\Caso__A.FormPrincipal.resources
+D:\UPC\2023 - 2\Fundamentos de Programación\Examen parcial\Caso _A\Caso _A\obj\Debug\Caso__A.FormProyecto.resources
+D:\UPC\2023 - 2\Fundamentos de Programación\Examen parcial\Caso _A\Caso _A\obj\Debug\Caso__A.FormReporte.resources
+D:\UPC\2023 - 2\Fundamentos de Programación\Examen parcial\Caso _A\Caso _A\obj\Debug\Caso__A.Properties.Resources.resources
+D:\UPC\2023 - 2\Fundamentos de Programación\Examen parcial\Caso _A\Caso _A\obj\Debug\Caso _A.csproj.GenerateResource.cache
+D:\UPC\2023 - 2\Fundamentos de Programación\Examen parcial\Caso _A\Caso _A\obj\Debug\Caso _A.csproj.CoreCompileInputs.cache
+D:\UPC\2023 - 2\Fundamentos de Programación\Examen parcial\Caso _A\Caso _A\obj\Debug\Caso _A.exe
+D:\UPC\2023 - 2\Fundamentos de Programación\Examen parcial\Caso _A\Caso _A\obj\Debug\Caso _A.pdb
