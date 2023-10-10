@@ -1,0 +1,16 @@
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 7\LAB11\LAB11\bin\Debug\net6.0-windows\LAB11.exe
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 7\LAB11\LAB11\bin\Debug\net6.0-windows\LAB11.deps.json
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 7\LAB11\LAB11\bin\Debug\net6.0-windows\LAB11.runtimeconfig.json
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 7\LAB11\LAB11\bin\Debug\net6.0-windows\LAB11.dll
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 7\LAB11\LAB11\bin\Debug\net6.0-windows\LAB11.pdb
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 7\LAB11\LAB11\obj\Debug\net6.0-windows\LAB11.FormEstacionamiento.resources
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 7\LAB11\LAB11\obj\Debug\net6.0-windows\LAB11.csproj.GenerateResource.cache
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 7\LAB11\LAB11\obj\Debug\net6.0-windows\LAB11.GeneratedMSBuildEditorConfig.editorconfig
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 7\LAB11\LAB11\obj\Debug\net6.0-windows\LAB11.AssemblyInfoInputs.cache
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 7\LAB11\LAB11\obj\Debug\net6.0-windows\LAB11.AssemblyInfo.cs
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 7\LAB11\LAB11\obj\Debug\net6.0-windows\LAB11.csproj.CoreCompileInputs.cache
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 7\LAB11\LAB11\obj\Debug\net6.0-windows\LAB11.dll
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 7\LAB11\LAB11\obj\Debug\net6.0-windows\refint\LAB11.dll
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 7\LAB11\LAB11\obj\Debug\net6.0-windows\LAB11.pdb
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 7\LAB11\LAB11\obj\Debug\net6.0-windows\LAB11.genruntimeconfig.cache
+D:\UPC\2023 - 2\Fundamentos de Programación\Semana 7\LAB11\LAB11\obj\Debug\net6.0-windows\ref\LAB11.dll
