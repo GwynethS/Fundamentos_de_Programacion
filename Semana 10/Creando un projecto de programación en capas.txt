@@ -1,0 +1,10 @@
+Solution: blank solution 
+Add -> new project 
+ - Capa de presentación: WPF App .NET Framework C#
+ - Capa de negocio, de datos y entidades: Class Library .NET Framework C#
+Borrar las clases creadas por defecto
+Crear las tablas de la base de datos como objetos en Entidades
+Añadir la referencia al proyecto entidades en la capa datos: Add -> Reference -> Entidades 
+En la capa de datos, crear la clase Database para conectarse a la base de datos.
+En la clase Database añadir la librería using System.Data.SqlClient;
+Establecer la clase como pública
