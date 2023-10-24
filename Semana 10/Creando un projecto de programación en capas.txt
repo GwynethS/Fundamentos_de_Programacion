@@ -1,3 +1,8 @@
+CREDENCIALES:
+Nombre del servidor: .
+Usuario: sa
+Password: sql
+
 Solution: blank solution 
 Add -> new project 
  - Capa de presentación: WPF App .NET Framework C#
