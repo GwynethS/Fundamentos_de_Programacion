@@ -1,0 +1,24 @@
+﻿<Window x:Class="Contactos.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Contactos"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="556" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Content="ID:" HorizontalAlignment="Left" Margin="90,31,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtId" HorizontalAlignment="Left" Height="23" Margin="129,29,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Nombre:" HorizontalAlignment="Left" Margin="58,82,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtNombre" HorizontalAlignment="Left" Height="23" Margin="129,82,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Celular:" HorizontalAlignment="Left" Margin="65,116,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtCelular" HorizontalAlignment="Left" Height="23" Margin="129,119,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnBuscar" Content="Buscar" HorizontalAlignment="Left" Margin="286,29,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="btnBuscar_Click"/>
+        <Button x:Name="btnLimpiar" Content="Limpiar" HorizontalAlignment="Left" Margin="390,29,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="btnLimpiar_Click"/>
+        <Button x:Name="btnAgregar" Content="Agregar" HorizontalAlignment="Left" Margin="286,119,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="btnAgregar_Click"/>
+        <DataGrid x:Name="dgDatos" HorizontalAlignment="Left" Height="179" Margin="65,217,0,0" VerticalAlignment="Top" Width="400"/>
+        <Label Content="Correo:" HorizontalAlignment="Left" Margin="65,157,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtCorreo" HorizontalAlignment="Left" Height="23" Margin="129,157,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>
